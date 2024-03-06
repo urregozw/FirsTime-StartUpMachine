@@ -1,4 +1,9 @@
 #!/bin/bash
+# This file is for a fresh new installation of an apt package manager system like Debian or Ubuntu
+# It install some basics packages, python3, docker and the cli for Azure and AWS
+# The rest of the configuration is left for the user itself
+
+
 # Update the system packages
 sudo apt -y update
 # Install the available updates
