@@ -10,7 +10,7 @@ sudo apt -y update
 sudo apt -y upgrade
 
 # Install the basics
-sudo apt -y install git ssh wget curl unzip jq cowsay fortune 
+sudo apt -y install git ssh wget curl unzip jq cowsay fortune telnet
 
 # Install Python and Python extras
 python3 python-pip pipx 
